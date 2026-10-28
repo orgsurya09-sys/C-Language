@@ -1,22 +1,3 @@
 # 実行ファイル
 *.exe
-*.out
 *.o
-*.obj
-
-# ビルドディレクトリ
-build/
-dist/
-
-# 一時ファイル
-*.tmp
-*.log
-
-# エディタ設定
-.vscode/
-.idea/
-*.swp
-
-# OS が作成するファイル
-Thumbs.db
-.DS_Store
